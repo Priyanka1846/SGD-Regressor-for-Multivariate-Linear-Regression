@@ -86,7 +86,7 @@ print(Y_pred)
 ## X_train,X_test,Y_train,Y_test
 ![Screenshot 2025-03-21 183608](https://github.com/user-attachments/assets/e8c84223-7a5a-41dd-a4b0-93abed0d62ed)
 ## MultiOutputRegressor(sgd)
-![Screenshot 2025-03-21 183619](https://github.com/user-attachments/assets/ddf85a93-fba6-4f46-8c0a-09a86421e1a7)
+![image](https://github.com/user-attachments/assets/0b19f675-30d4-4d60-8e26-dd866d1ca975)
 ## Mean Squared error
 ![Screenshot 2025-03-21 183626](https://github.com/user-attachments/assets/06fe8bd0-7130-45d1-8788-cae333292a09)
 
